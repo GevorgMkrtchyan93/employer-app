@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EmployerApp\EmployerApp\bin\Debug\EmployerApp.exe.config
+C:\Users\User\source\repos\EmployerApp\EmployerApp\bin\Debug\EmployerApp.exe
+C:\Users\User\source\repos\EmployerApp\EmployerApp\bin\Debug\EmployerApp.pdb
+C:\Users\User\source\repos\EmployerApp\EmployerApp\obj\Debug\EmployerApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EmployerApp\EmployerApp\obj\Debug\EmployerApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployerApp\EmployerApp\obj\Debug\EmployerApp.exe
+C:\Users\User\source\repos\EmployerApp\EmployerApp\obj\Debug\EmployerApp.pdb
